@@ -1,6 +1,5 @@
-'''This module implements specialized container datatypes providing
-alternatives to Python's general purpose built-in containers, dict,
-list, set, and tuple.
+'''このモジュールは、コンテナのデータ型を実装しています。
+Pythonの汎用的な組み込みコンテナであるdict,list, set,tupleに代わるものです。
 
 * namedtuple   factory function for creating tuple subclasses with named fields
 * deque        list-like container with fast appends and pops on either end
